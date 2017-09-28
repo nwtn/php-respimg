@@ -28,8 +28,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "ext-imagick": "*",
-        "jonnyw/php-phantomjs": "3.1.5"
+        "ext-imagick": "*"
     },
     "scripts": {
         "post-install-cmd": [
