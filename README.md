@@ -1,3 +1,5 @@
+**THIS REPO IS NOT MAINTAINED**
+
 # php-respimg
 
 A responsive image workflow for optimizing and resizing your images.
